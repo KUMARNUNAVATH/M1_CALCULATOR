@@ -6,11 +6,11 @@ The input includes the command such as we can give numbers based on the operatio
 # SDLC Activity Based Learning
 # Badges
 * Codacy - Static code Analysis
-* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a178d8cf59c4ead82459b4ff4d5c74c)](https://www.codacy.com/gh/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR&amp;utm_campaign=Badge_Grade)
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a178d8cf59c4ead82459b4ff4d5c74c)](https://www.codacy.com/gh/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR&amp;utm_campaign=Badge_Grade) 
+# Build on Linux
+[![Build CI -Linux](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml)
+
 
 ## Folder Structure
 
 ![02](https://user-images.githubusercontent.com/101395036/159779724-ff1abd40-da7b-4e67-a7d5-a581b5d757fc.png)
-
-# Build on Linux
-[![Build CI -Linux](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml)
