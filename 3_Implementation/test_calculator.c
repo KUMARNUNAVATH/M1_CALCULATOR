@@ -2,7 +2,7 @@
 
 /* Modify these two lines according to the project */
 
-#define PROJECT_NAME    "Calculator"
+#define PROJECT_NAME    "Scientific_Calculator"
 
 /* Prototypes for all the test functions */
 extern void test_addition();
