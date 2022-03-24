@@ -10,7 +10,7 @@ The input includes the command such as we can give numbers based on the operatio
 ## Build on Linux
 [![Build CI -Linux](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml)
 ## 
-
+[![Analysis](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/analysis.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/analysis.yml)
 
 ## Folder Structure
 
