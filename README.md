@@ -4,7 +4,9 @@ Simple calculator is a project to allow users to calculate basic four operations
 
 The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas/square/cube, in another word it is implemented with the order of precedence logic.
 # SDLC Activity Based Learning
-
+# Badges
+* Codacy - Static code Analysis
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a178d8cf59c4ead82459b4ff4d5c74c)](https://www.codacy.com/gh/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
 
