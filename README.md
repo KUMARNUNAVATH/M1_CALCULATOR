@@ -9,7 +9,7 @@ Codacy - Static code Analysis
 
  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a178d8cf59c4ead82459b4ff4d5c74c)](https://www.codacy.com/gh/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR&amp;utm_campaign=Badge_Grade) 
 ## Build on Linux
-[![Build CI -Linux](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/c-cpp.yml)
+[![Build CI -Linux](https://github.com/KUMARNUNAVATH/M1_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_CALCULATOR/actions/workflows/c-cpp.yml)
 ## Cppcheck-Analysis
 [![Analysis](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/analysis.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/analysis.yml)
 
