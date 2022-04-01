@@ -16,3 +16,11 @@ Codacy - Static code Analysis
 ## Folder Structure
 
 ![02](https://user-images.githubusercontent.com/101395036/159779724-ff1abd40-da7b-4e67-a7d5-a581b5d757fc.png)
+ # Learning Resources
+1.Markdown:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+2.MarkdownBasics:https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+3.git inspector:https://github.com/ejwa/gitinspector
+
+4.github workflow:https://docs.github.com/en/actions/learn-github-action
