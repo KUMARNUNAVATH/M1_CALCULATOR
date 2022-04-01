@@ -1,6 +1,6 @@
 #Targetname : Dependent target name
 #<TAB>command
-PROJ_NAME = StrCalc
+PROJ_NAME = calculator
 SRC = calculator.c test_calculator.c unity/unity.c -Iunity
 
 ifdef OS
