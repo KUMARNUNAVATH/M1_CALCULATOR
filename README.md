@@ -12,7 +12,7 @@ Codacy - Static code Analysis
 [![Build CI -Linux](https://github.com/KUMARNUNAVATH/M1_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_CALCULATOR/actions/workflows/c-cpp.yml)
 ## Cppcheck-Analysis
 [![Analysis](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/analysis.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_SCIENTIFIC_CALCULATOR/actions/workflows/analysis.yml)
-
+## Git Inspector
 ## Folder Structure
 
 ![02](https://user-images.githubusercontent.com/101395036/159779724-ff1abd40-da7b-4e67-a7d5-a581b5d757fc.png)
